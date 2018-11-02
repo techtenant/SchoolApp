@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BD88</color>
+    <color name="colorPrimaryDark">#00BD6F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNeutral">#F7F7F5</color>
+    <color name="colorYellow">#FFDE00</color>
+    <color name="colorText">#D0CECF</color>
+    <color name="colorPurple">#7719AA</color>
+    <color name="colorBaseRelease">#212121</color>
+    <color name="colorBasePress">#FAFAFA</color>
+    <color name="colorBaseBallRelease">#9E9E9E</color>
+
+
+</resources>

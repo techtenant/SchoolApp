@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SchoolApp</string>
+    <string name="pata_shule">Pata Shule</string>
+    <string name="popote">Popote</string>
+    <string name="searching">Searching For School? Worry Not</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">UserName</string>
+    <string name="phone">0722000000</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="map_detail">AIzaSyA6U3kYOFwCPCsLt9OYMmWRF8yp9QNn9WE</string>
+</resources>

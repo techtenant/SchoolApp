@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781040689427",
+    "firebase_url": "https://schoolapp-8399b.firebaseio.com",
+    "project_id": "schoolapp-8399b",
+    "storage_bucket": "schoolapp-8399b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781040689427:android:334bdf6e3987b214",
+        "android_client_info": {
+          "package_name": "techtenant.co.ke.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781040689427-dfvptr8mf61v2o4ien0is3hmjojk7lh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techtenant.co.ke.schoolapp",
+            "certificate_hash": "4932282490930e7f96b5ca47746cfeb41e32ba9d"
+          }
+        },
+        {
+          "client_id": "781040689427-aenqdmq82fq3josea7forju56cno265r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2wCXe2CZIQUUABMc2--nW5vRCD2-n7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781040689427-aenqdmq82fq3josea7forju56cno265r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
