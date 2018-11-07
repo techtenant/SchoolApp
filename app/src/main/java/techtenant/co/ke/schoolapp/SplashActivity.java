@@ -63,7 +63,8 @@ public class SplashActivity extends AppCompatActivity {
         btnSignIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                showLoginDialog();
+//                showLoginDialog();
+                startActivity(new Intent(getApplicationContext(),WelcomeActivity.class));
 
             }
         });
