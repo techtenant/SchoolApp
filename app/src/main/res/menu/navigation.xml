@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/navigation_home"
+            android:icon="@drawable/home"
+            android:title="@string/Home" />
+
+        <item
+            android:id="@+id/navigation_map"
+            android:icon="@drawable/map"
+            android:title="@string/Map" />
+
+        <item
+            android:id="@+id/navigation_list"
+            android:icon="@drawable/checklist"
+            android:title="@string/ListSchools" />
+
+    </menu>

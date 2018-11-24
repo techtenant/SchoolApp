@@ -11,4 +11,7 @@
     <string name="phone">0722000000</string>
     <string name="title_activity_welcome">Map</string>
     <string name="map_detail">AIzaSyA6U3kYOFwCPCsLt9OYMmWRF8yp9QNn9WE</string>
+    <string name="Home">Home</string>
+    <string name="Map">On Map</string>
+    <string name="ListSchools">List Schools</string>
 </resources>

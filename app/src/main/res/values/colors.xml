@@ -10,6 +10,7 @@
     <color name="colorBaseRelease">#212121</color>
     <color name="colorBasePress">#FAFAFA</color>
     <color name="colorBaseBallRelease">#9E9E9E</color>
+    <color name="bgBottomNavigation">#9E9E9E</color>
 
 
 </resources>
